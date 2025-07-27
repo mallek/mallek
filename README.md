@@ -31,7 +31,7 @@ I'm a full-stack engineer with 25+ years of experience building scalable softwar
 ![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### 🧠 AI & Machine Learning:
+### 🧠 AI & Machine Learning (2024-2025):
 - **OpenAI:** GPT-4 API integration, prompt engineering, AI-powered applications
 - **Anthropic/Bedrock:** Claude model implementation on AWS, enterprise AI solutions
 - **Focus Areas:** LLM integration, conversational AI, intelligent automation
@@ -55,7 +55,7 @@ I'm a full-stack engineer with 25+ years of experience building scalable softwar
 - Integrating AI capabilities for enhanced customer engagement
 - Architecting scalable, cloud-native applications
 
-## 🎯 Current Focus Areas
+## 🎯 2025 Focus Areas
 
 - 🧠 Advanced AI/LLM integration patterns
 - ⚡ Real-time data processing at scale
@@ -71,8 +71,27 @@ I'm a full-stack engineer with 25+ years of experience building scalable softwar
 ![](https://github-profile-trophy.vercel.app/?username=mallek&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 📚 Education & Certifications
+- 🎓 **B.S. Computer Science** - University of Colorado Boulder
 - 📜 **Microsoft Certified Professional**
 - 🏅 **Udacity Mobile Web Specialist Nanodegree**
+
+## 🌟 Featured Repositories
+
+### [🔧 Windows PowerShell Profile](https://github.com/mallek/WindowsPowerShell)
+A comprehensive PowerShell profile with many productivity features, including a custom pull request AI tool that enhances your development workflow.
+
+### [🏙️ Civ 7 Enhanced Town Focus Info](https://github.com/mallek/Civ7EnhancedTownFocusInfo)
+One of the most popular Civilization 7 UI mods with over 48,000 downloads (5th most installed mod in the game). Provides detailed breakdowns of yield bonuses when selecting town specializations. 
+- ⭐ 4.68/5 star rating
+- 📥 42,820+ downloads
+- 🔄 Last updated: April 30, 2025
+
+### [🧩 Pick Basic Syntax Highlighter for VS Code](https://github.com/mallek/vscode-pick-basic-syntax-highlighter)
+One of the first VS Code extensions ever published (2016). This extension provides Pick Basic syntax highlighting and language support by adapting Jacob Bennett's TextMate highlighting for VS Code.
+- 📥 4,168+ downloads
+- ⭐ 5/5 star rating
+- 🔖 Extension ID: travishaley.pick
+- 🚀 First published: May 3, 2016
 
 ## 🌟 What I'm Working On
 - Exploring creative applications of LLMs in automotive retail
