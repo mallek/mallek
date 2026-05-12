@@ -55,12 +55,12 @@ I'm a full-stack engineer with 25+ years of experience building scalable softwar
 - Integrating AI capabilities for enhanced customer engagement
 - Architecting scalable, cloud-native applications
 
-## 🎯 2025 Focus Areas
+## 🎯 2026 Focus Areas
 
+- 🧶 Open-source game engine and package ecosystem design
 - 🧠 Advanced AI/LLM integration patterns
 - ⚡ Real-time data processing at scale
 - 🔗 API-first architecture design
-- 🛡️ Enterprise-grade AI safety and reliability
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mallek&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
@@ -86,6 +86,12 @@ One of the most popular Civilization 7 UI mods with over 48,000 downloads (5th m
 - 📥 42,820+ downloads
 - 🔄 Last updated: April 30, 2025
 
+### [🧶 Tapestry MUD Engine](https://github.com/tapestry-mud/tapestry)
+A modular MUD engine where the engine provides the platform and content packs provide the game. C#/.NET 10 server with telnet, WebSocket, GMCP protocol, React web client, full OpenTelemetry observability, and a JavaScript scripting API with 37 modules. Includes a CLI package manager and public registry at tapestryengine.com.
+- 🏗️ Engine: C#/.NET 10 | Client: React + TypeScript | CLI & Registry: Node.js
+- 🎮 YAML + JavaScript content packs -- build a full game without touching C#
+- 📦 [CLI](https://github.com/tapestry-mud/tapestry-cli) | [Registry](https://github.com/tapestry-mud/tapestry-registry) | [npm: @tapestry-mud/cli](https://www.npmjs.com/package/@tapestry-mud/cli)
+
 ### [🧩 Pick Basic Syntax Highlighter for VS Code](https://github.com/mallek/vscode-pick-basic-syntax-highlighter)
 One of the first VS Code extensions ever published (2016). This extension provides Pick Basic syntax highlighting and language support by adapting Jacob Bennett's TextMate highlighting for VS Code.
 - 📥 4,168+ downloads
@@ -94,9 +100,9 @@ One of the first VS Code extensions ever published (2016). This extension provid
 - 🚀 First published: May 3, 2016
 
 ## 🌟 What I'm Working On
-- Exploring creative applications of LLMs in automotive retail
-- Building tools that bridge traditional software with AI capabilities
-- Contributing to open-source AI integration projects
+- 🧶 [Tapestry](https://github.com/tapestry-mud) -- building a modular, open-source MUD engine with a package ecosystem
+- 🧠 Exploring creative applications of LLMs in automotive retail
+- 🔧 Building tools that bridge traditional software with AI capabilities
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mallek&icon=0&color=1)](https://visitcount.itsvg.in)
